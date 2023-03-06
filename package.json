@@ -1,0 +1,16 @@
+{
+  "name": "groupchat",
+  "version": "1.0.0",
+  "description": "A group chat web-app using pure html, css and JS for connection i have used socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "handsome",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21",
+    "socket.io": "^4.6.1"
+  }
+}
