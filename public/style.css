@@ -151,7 +151,7 @@ body {
 }
 
 .chat-screen .messages .message .text {
-    font-size: 20px;
+    font-size: 16px;
     word-wrap: break-word;
 }
 
